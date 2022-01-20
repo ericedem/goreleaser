@@ -1,6 +1,6 @@
 # How it works
 
-GoReleaser goal is to automate most of the boring work you'll had while releasing software.
+GoReleaser goal is to automate most of the boring work you'll have while releasing software.
 Ideally, using sensible defaults and making the most common usecases easy.
 
 GoReleaser expects a couple of things:
